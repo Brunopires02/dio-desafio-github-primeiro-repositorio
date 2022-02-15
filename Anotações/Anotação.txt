@@ -10,4 +10,5 @@ git status
 git commit -m "(Pode escrever algo)"
 ## Serve para salvar as informações
 
-git 
+git push origin main 
+## serve para mandar o seu repositorio local para o Git Hub
