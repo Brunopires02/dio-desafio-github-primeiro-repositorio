@@ -1,0 +1,8 @@
+git clone
+## Serve para trazer o arquivo do git para a sua maquina local.
+
+git add . ou git add -A
+## Serve para adicionar todos aquivos da sua pasta no seu repositorio
+
+git status 
+## Serve para ver o status do seu repositorio
